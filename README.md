@@ -1,11 +1,8 @@
+![logo](https://github.com/SaiDeephekaKarthikeyan/SaiDeephekaKarthikeyan/blob/main/s1.png)
 <h1 align="center">Hi 👋, I'm Sai Deepheka Karthikeyan</h1>
 <h3 align="center">DevOps enthusiast with expertise in automation, CI/CD pipelines, and Docker.</h3>
 
-<img align="right" alt="DevOps" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCodemasterDevops421%2FCodemasterDevops421&psig=AOvVaw3wzb4dex3EPrPNV3b8FIPW&ust=1741426193052000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjyu6vU94sDFQAAAAAdAAAAABBw">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saideephekakarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="saideephekakarthikeyan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saideephekakarthikeyan" alt="saideephekakarthikeyan" /></a> </p>
+<img align="right" alt="DevOps" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif">
 
 - 🔭 I’m currently working on **Docker Project**
 
